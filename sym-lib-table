@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "70AAJ-6-M0G")(type "Legacy")(uri "${KIPRJMOD}/70AAJ-6-M0G/70AAJ-6-M0G.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "70AAJ-6-M0G")(type "KiCad")(uri "${KIPRJMOD}/70AAJ-6-M0G/70AAJ-6-M0G.kicad_sym")(options "")(descr ""))
 )

@@ -230,9 +230,6 @@
     (property "MAXIMUM_PACKAGE_HEIGHT" "3.99mm" (at 88.9 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "LCSC Part#" "C5137163" (at 95.25 34.2899 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
     (pin "1" (uuid 65b6c69f-cd54-4adc-87b2-3e78f08c3f41))
     (pin "10" (uuid 26d6e76a-76bb-4580-9086-6149f6873564))
     (pin "11" (uuid da343ae3-9f56-4cd2-a8c0-81656714d0cc))
@@ -255,7 +252,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 62.23 34.29 0) (mirror y) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8bae4f6c-4f04-4fa6-add4-4bb7075bebe0)
     (property "Reference" "J2" (at 62.23 48.26 0)
       (effects (font (size 1.27 1.27)))
